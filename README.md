@@ -1,5 +1,5 @@
 # Hi, I'm Mohamed 👋🏼
-💻 Seasoned PHP and Laravel Developer with over 2 years of experience in designing, developing, and maintaining high-performance web applications. Proven expertise in both backend and frontend development, with a deep understanding of MVC architecture, RESTful API integration, and database management.
+💻 Seasoned PHP and Laravel Developer with over 4 years of experience in designing, developing, and maintaining high-performance web applications. Proven expertise in both backend and frontend development, with a deep understanding of MVC architecture, RESTful API integration, and database management.
 
 🔧 Skilled in using PHP, Laravel, AJAX, Datatable, HTML, CSS, JavaScript, Bootstrap, JQuery, and other web technologies. Capable of creating RESTful APIs and backend services, implementing best practices, and optimizing code for scalability and performance.
 
