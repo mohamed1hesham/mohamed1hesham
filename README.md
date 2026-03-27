@@ -1,25 +1,108 @@
-# Hi, I'm Mohamed 👋🏼
-💻 Seasoned PHP and Laravel Developer with over 4 years of experience in designing, developing, and maintaining high-performance web applications. Proven expertise in both backend and frontend development, with a deep understanding of MVC architecture, RESTful API integration, and database management.
+# 👋 Hi, I'm Mohamed Hesham
 
-🔧 Skilled in using PHP, Laravel, AJAX, Datatable, HTML, CSS, JavaScript, Bootstrap, JQuery, and other web technologies. Capable of creating RESTful APIs and backend services, implementing best practices, and optimizing code for scalability and performance.
+💻 **Senior PHP & Laravel Developer** with 4+ years of experience building scalable, high-performance web applications.
 
-💾 Database Design Expert with experience in SQL databases, ORM, and effective data management strategies.
+---
 
-⚙️ Experienced in Tools and Platforms such as PHPStorm, Visual Studio, Sublime Text, Notepad++, and Postman, with a strong focus on CI/CD pipelines, unit testing, and UI testing.
+## 🚀 About Me
 
-🌍 API Integration Proficiency in working with Oracle APIs, Google APIs, and social media integrations (Facebook & Twitter).
+I specialize in designing and developing robust backend systems while maintaining clean, efficient, and scalable codebases. I have strong expertise in both backend and frontend development, with a deep understanding of modern web architecture.
 
-🛠️ Mastered Development Practices in Event-Driven Architecture, Listeners, Multi-Tenancy, and microservices. Extensive experience with tools like Laravel Nova, Redis, AWS, and technologies like Pusher, WebSockets, Broadcasting, and caching strategies.
+- 🔥 Passionate about clean code & scalable systems  
+- 🧠 Strong problem-solving mindset  
+- ⚡ Performance optimization enthusiast  
+- 🌱 دائم التطور والتعلم في مجال البرمجة  
 
-📋 Proficient in Agile Methodologies and skilled with project management tools such as Jira, Trello, and ClickUp.
+---
 
-🧠 Strong background in Dynamic Programming, Data Structures, Algorithms, Clean Architecture, and design patterns like MVC, MVVM, and MVP.
+## 🛠️ Tech Stack
 
-🔗 Skilled in version control using GitHub, GitLab, and Bitbucket.
+### 👨‍💻 Backend
+- PHP  
+- Laravel  
+- RESTful APIs  
+- MVC Architecture  
+- Microservices  
 
-🌟 Dedicated to building scalable, secure, and robust web applications with a passion for continuous learning and innovation in web development.
+### 🎨 Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+- jQuery  
+- Bootstrap  
+- AJAX  
+- DataTables  
 
-- 📧 Reach me out by [E-mail](mohamedhesham011010@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohamed0hesham/)
-- 📢 Don't hesitate to ask me anything
+### 🗄️ Database
+- MySQL  
+- SQL Optimization  
+- ORM (Eloquent)  
+- Database Design  
 
-- 😉 Go and check out my repos
+---
+
+## ⚙️ Tools & Platforms
+
+- 🧰 PHPStorm, VS Code, Sublime, Notepad++  
+- 🔗 Postman (API Testing)  
+- 🔄 GitHub, GitLab, Bitbucket  
+- 📊 Jira, Trello, ClickUp  
+
+---
+
+## ☁️ Advanced Skills
+
+- 🔌 API Integrations (Google, Oracle, Social Media)  
+- ⚡ Redis & Caching Strategies  
+- 📡 WebSockets, Pusher & Real-time Systems  
+- 🏗️ Multi-Tenancy Systems  
+- 🔄 Event-Driven Architecture (Listeners, Jobs)  
+- ☁️ AWS Basics  
+
+---
+
+## 🧪 Development Practices
+
+- ✅ Clean Architecture  
+- ✅ Design Patterns (MVC, MVVM, MVP)  
+- ✅ Unit Testing & UI Testing  
+- ✅ CI/CD Pipelines  
+- ✅ Agile Methodologies  
+
+---
+
+## 📈 What I Build
+
+- Scalable Web Applications  
+- High-performance APIs  
+- Enterprise Backend Systems  
+- Real-time Applications  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: *your-email-here*  
+- 💼 LinkedIn: *your-linkedin-here*  
+
+---
+
+## 💬 Ask Me About
+
+- Laravel & PHP  
+- API Development  
+- System Design  
+- Performance Optimization  
+
+---
+
+## ⭐ Fun Fact
+
+> I don't just write code… I build systems that scale 🚀
+
+---
+
+## 📌 Check My Work
+
+👉 Explore my repositories and projects below 👇  
+⭐ Don’t forget to star the ones you like!
