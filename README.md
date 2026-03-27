@@ -11,9 +11,9 @@
 ## 🚀 About Me
 
 💻 4+ years of experience building scalable web applications  
-⚡ متخصص في Laravel و Backend Architecture  
-🧠 بحب Clean Code و System Design  
-🌍 Always learning new technologies  
+⚡ Laravel & Backend Architecture Specialist
+🧠 Passionate about Clean Code & System Design
+🌍 Always learning new technologies
 
 ---
 
