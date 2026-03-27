@@ -1,6 +1,6 @@
 <!-- HEADER ANIMATION -->
 <h1 align="center">Hi 👋, I'm Mohamed Hesham</h1>
-<h3 align="center">Senior PHP & Laravel Developer 🚀</h3>
+<h3 align="center">Mid-Level PHP & Laravel Developer 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Laravel+Expert;API+Specialist;Clean+Code+Advocate&center=true&width=500&height=45">
