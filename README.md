@@ -1,108 +1,87 @@
-# 👋 Hi, I'm Mohamed Hesham
+<!-- HEADER ANIMATION -->
+<h1 align="center">Hi 👋, I'm Mohamed Hesham</h1>
+<h3 align="center">Senior PHP & Laravel Developer 🚀</h3>
 
-💻 **Senior PHP & Laravel Developer** with 4+ years of experience building scalable, high-performance web applications.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Laravel+Expert;API+Specialist;Clean+Code+Advocate&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I specialize in designing and developing robust backend systems while maintaining clean, efficient, and scalable codebases. I have strong expertise in both backend and frontend development, with a deep understanding of modern web architecture.
-
-- 🔥 Passionate about clean code & scalable systems  
-- 🧠 Strong problem-solving mindset  
-- ⚡ Performance optimization enthusiast  
-- 🌱 دائم التطور والتعلم في مجال البرمجة  
+💻 4+ years of experience building scalable web applications  
+⚡ متخصص في Laravel و Backend Architecture  
+🧠 بحب Clean Code و System Design  
+🌍 Always learning new technologies  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Backend
-- PHP  
-- Laravel  
-- RESTful APIs  
-- MVC Architecture  
-- Microservices  
-
-### 🎨 Frontend
-- HTML5  
-- CSS3  
-- JavaScript  
-- jQuery  
-- Bootstrap  
-- AJAX  
-- DataTables  
-
-### 🗄️ Database
-- MySQL  
-- SQL Optimization  
-- ORM (Eloquent)  
-- Database Design  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,mysql,redis,aws,git,github,postman" />
+</p>
 
 ---
 
-## ⚙️ Tools & Platforms
+## 📊 GitHub Stats
 
-- 🧰 PHPStorm, VS Code, Sublime, Notepad++  
-- 🔗 Postman (API Testing)  
-- 🔄 GitHub, GitLab, Bitbucket  
-- 📊 Jira, Trello, ClickUp  
-
----
-
-## ☁️ Advanced Skills
-
-- 🔌 API Integrations (Google, Oracle, Social Media)  
-- ⚡ Redis & Caching Strategies  
-- 📡 WebSockets, Pusher & Real-time Systems  
-- 🏗️ Multi-Tenancy Systems  
-- 🔄 Event-Driven Architecture (Listeners, Jobs)  
-- ☁️ AWS Basics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed1hesham&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed1hesham&theme=tokyonight" />
+</p>
 
 ---
 
-## 🧪 Development Practices
+## 🧠 What I Do
 
-- ✅ Clean Architecture  
-- ✅ Design Patterns (MVC, MVVM, MVP)  
-- ✅ Unit Testing & UI Testing  
-- ✅ CI/CD Pipelines  
-- ✅ Agile Methodologies  
-
----
-
-## 📈 What I Build
-
-- Scalable Web Applications  
-- High-performance APIs  
-- Enterprise Backend Systems  
-- Real-time Applications  
+- 🔥 Build scalable backend systems  
+- ⚡ Develop high-performance APIs  
+- 🏗️ Design clean architecture  
+- 🔌 Integrate third-party services  
 
 ---
 
-## 📫 Connect With Me
+## ⚙️ Tools I Use
 
-- 📧 Email: *your-email-here*  
-- 💼 LinkedIn: *your-linkedin-here*  
-
----
-
-## 💬 Ask Me About
-
-- Laravel & PHP  
-- API Development  
-- System Design  
-- Performance Optimization  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,gitlab,bitbucket,jira,trello" />
+</p>
 
 ---
 
-## ⭐ Fun Fact
+## 🌐 Connect With Me
 
-> I don't just write code… I build systems that scale 🚀
+<p align="center">
+  <a href="YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohamed1hesham/mohamed1hesham/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## ⭐ Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed1hesham&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 📌 Check My Work
 
-👉 Explore my repositories and projects below 👇  
-⭐ Don’t forget to star the ones you like!
+⭐ Explore my repositories and don't forget to star what you like!
