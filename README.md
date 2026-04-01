@@ -54,6 +54,14 @@
 
 ---
 
+## ⚙️ Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,symfony,mysql,sqlite,js,ts,html,css,bootstrap,tailwind,react,vite,nodejs,npm,yarn,vscode,phpstorm,git,github,gitlab,bitbucket,postman,docker,linux,redis,nginx,aws,figma,xd&perline=9" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
