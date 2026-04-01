@@ -49,7 +49,7 @@
 ## ⚙️ Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,git,github,gitlab,bitbucket,postman,figma,jira,trello,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,bootstrap,vscode,phpstorm,git,github,postman,docker&perline=7" />
 </p>
 
 ---
