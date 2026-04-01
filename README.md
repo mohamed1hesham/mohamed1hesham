@@ -52,6 +52,22 @@
   <img src="https://skillicons.dev/icons?i=vscode,phpstorm,gitlab,bitbucket,jira,trello" />
 </p>
 
+## ⚙️ Tools I Use
+
+### 🧑‍💻 Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,git,github" />
+</p>
+
+### 🔧 Collaboration & Management
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gitlab,bitbucket,jira,trello" />
+</p>
+
+### 🎨 Design & Testing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,postman" />
+</p>
 ---
 
 ## 🌐 Connect With Me
