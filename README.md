@@ -49,14 +49,6 @@
 ## ⚙️ Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,bootstrap,vscode,phpstorm,git,github,postman,docker,gitlab&perline=7" />
-</p>
-
----
-
-## ⚙️ Tools I Use
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,symfony,mysql,sqlite,js,html,css,bootstrap,tailwind,vite,npm,yarn,vscode,phpstorm,git,github,gitlab,bitbucket,postman,docker,linux,redis,nginx,aws,figma,xd&perline=9" />
 </p>
 
