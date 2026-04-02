@@ -35,6 +35,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed1hesham&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed1hesham&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed1hesham&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamed1hesham&theme=tokyonight&no-frame=true&row=1" />
+</p>
+
 ---
 
 ## 🧠 What I Do
